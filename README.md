@@ -1,4 +1,4 @@
-<img width="1471" height="992" alt="image" src="https://github.com/user-attachments/assets/65ad0142-3059-46c6-b07b-3dd57a2dbb98" /><!-- 💫 Futuristic Profile by Muhammad Luqman -->
+
 <p align="center">
   <img src="https://github.com/Muhammad-Luqman925/Muhammad-Luqman925/blob/main/Banner.png" alt="Muhammad Luqman Banner" width="100%">
 </p>
