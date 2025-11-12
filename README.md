@@ -27,7 +27,7 @@
 - 🧩 Currently building **LearnCheck** — an adaptive learning platform using a rule-based AI engine  
 - 🌱 Exploring **Laravel 12**, **Filament 3.x**, and **React + Vite workflows**  
 - 💬 Ask me about **Adaptive Quiz Systems**, **AI Integration**, or **Laravel + React Stack**  
--⚡ Fun fact: I love blending creativity and logic — turning ideas into real systems that people can actually use.
+- ⚡ Fun fact: I love blending creativity and logic — turning ideas into real systems that people can actually use.
 
 ---
 
