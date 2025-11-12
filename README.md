@@ -6,15 +6,19 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#58C4DC;">Muhammad Luqman</span></h1>
 
 <p align="center">
-  🎓 Information Systems Student at <b>Universitas Mulawarman</b><br>
-  🌍 Samarinda, Indonesia · 💡 Passionate about <b>Web Development, AI, and EdTech</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=58C4DC&center=true&vCenter=true&width=450&lines=Information+Systems+Student;Web+Developer+%7C+AI+%26+EdTech+Enthusiast;Lifelong+Learner+%F0%9F%94%A5">
 </p>
-
----
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=58C4DC&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;AI+%26+EdTech+Enthusiast;Laravel+%2B+React+Lover;Always+Learning+🚀">
+  🌍 Samarinda, Indonesia  
 </p>
+
+<hr style="border:0.5px solid #444; width:70%; margin:auto;">
+
+<p align="center">
+  <i>"Transforming ideas into intelligent learning systems."</i>
+</p>
+
 
 ---
 
@@ -23,7 +27,7 @@
 - 🧩 Currently building **LearnCheck** — an adaptive learning platform using a rule-based AI engine  
 - 🌱 Exploring **Laravel 12**, **Filament 3.x**, and **React + Vite workflows**  
 - 💬 Ask me about **Adaptive Quiz Systems**, **AI Integration**, or **Laravel + React Stack**  
-- ⚡ Fun fact: I track my **weekly BTC & ETH DCA** while planning my next **custom PC build** 😄  
+-⚡ Fun fact: I love blending creativity and logic — turning ideas into real systems that people can actually use.
 
 ---
 
