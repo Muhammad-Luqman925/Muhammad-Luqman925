@@ -27,6 +27,32 @@
 
 ---
 
+<details>
+  <summary><h3>📘 More About Me (Click to Expand)</h3></summary>
+  <br>
+  
+  👋 Hi there! I'm **Muhammad Luqman**, a student of Information Systems at **Universitas Mulawarman**, Faculty of Engineering, Samarinda.  
+  I’m deeply interested in how technology, education, and AI can work together to improve the way people learn.  
+
+  🔹 I’m currently developing **LearnCheck**, an adaptive physics quiz platform that diagnoses students’ misconceptions using a **four-tier diagnostic model** and a **rule-based adaptive engine**.  
+  🔹 I also work on other projects like **Tokolokal** (a reseller marketplace system built with Laravel + React) and **SMP Wahidiyah Samarinda** (a dynamic school website with Filament CMS).  
+  🔹 My academic focus involves **AI in educational technology**, particularly adaptive systems, diagnostic assessments, and data-driven feedback.  
+
+  Outside coding and research:
+  - 💰 I love learning about personal finance & cryptocurrency (especially BTC & ETH DCA strategy)  
+  - 💻 I’m working towards building my **custom PC** setup  
+  - 🧩 I enjoy mixing creativity and logic — turning abstract ideas into functional systems  
+
+  🧠 **Core Interests:**  
+  `Adaptive Learning` · `Artificial Intelligence in Education` · `Laravel & Filament` · `React Frontend` · `UX for Learning Systems`
+
+  📚 **Research Focus:**  
+  _“Design and Development of an Adaptive Diagnostic Learning System to Identify Physics Misconceptions”_
+
+</details>
+
+---
+
 ### 🚀 Featured Projects
 | 🧩 Project | 💡 Description | 🧰 Stack |
 |------------|----------------|----------|
@@ -51,13 +77,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Luqman925&theme=tokyonight&hide_border=false" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Luqman925&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 ---
