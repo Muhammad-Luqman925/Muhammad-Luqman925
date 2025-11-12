@@ -1,20 +1,24 @@
-<!-- 🌌 Modern GitHub Profile by Muhammad Luqman -->
-<h1 align="center">👋 Hi, I'm <span style="color:#58C4DC;">Muhammad Luqman</span></h1>
+<!-- 🌌 Ultimate Modern GitHub Profile README by Muhammad Luqman -->
+<h1 align="center">✨ Hi, I'm <span style="color:#58C4DC;">Muhammad Luqman</span> 👋</h1>
 
 <p align="center">
-  🎓 Information Systems Student at <b>Universitas Mulawarman</b><br>
-  💻 Passionate about <b>Web Development, AI, and Educational Technology</b><br>
-  📍 Samarinda, Indonesia
+  <b>Information Systems Student</b> at <b>Universitas Mulawarman</b> 🎓<br>
+  🌍 Samarinda, Indonesia · 💡 Passionate about <b>Web Development, AI, and EdTech</b>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=58C4DC&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;AI+%26+Adaptive+Learning+Researcher;Laravel+%2B+React+Enthusiast;Always+Learning+New+Things+🚀">
 </p>
 
 ---
 
 ### 💫 About Me
-- 🧠 I’m deeply interested in connecting **learning theory with code**  
-- 📚 Currently researching **adaptive learning & misconception diagnostics** for my thesis  
-- ⚙️ I love building systems using **Laravel**, **Filament**, and **React**  
-- 🌱 Always learning new things around **AI**, **adaptive systems**, and **research design**  
-- 💬 Ask me about **adaptive quiz engines**, **Laravel + React**, or **AI in education**  
+- 🧠 Love connecting **learning theory with code**
+- 🧩 Currently building **LearnCheck** — an adaptive learning system to diagnose misconceptions  
+- 🌱 Exploring **AI integration**, **Filament 3.x**, and **React + Vite workflows**  
+- 💬 Ask me about **Laravel**, **Adaptive Systems**, or **AI in Education**  
 - ⚡ Fun fact: I track my **weekly BTC & ETH DCA** while planning my next **custom PC build** 😄  
 
 ---
@@ -22,23 +26,27 @@
 ### 🚀 Featured Projects
 | 🧩 Project | 💡 Description | 🧰 Stack |
 |------------|----------------|----------|
-| **LearnCheck** | Adaptive Physics Diagnostic Platform (4-tier quiz + rule-based AI) | Laravel · Filament · React |
-| **Tokolokal** | Marketplace platform with reseller system & voucher logic | Laravel · React · Tailwind |
-| **SMP Wahidiyah Website** | School website with teacher, news, and admin panel | Laravel · Filament · Tailwind |
+| **LearnCheck** | Adaptive Physics Diagnostic Platform (4-tier quiz + rule-based AI engine) | Laravel · Filament · React |
+| **Tokolokal** | Marketplace platform for resellers with dynamic voucher system | Laravel · React · Tailwind |
+| **SMP Wahidiyah Website** | School profile website with teacher, news, and admin management | Laravel · Filament · Tailwind |
 
 ---
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,react,tailwind,js,python,mysql,git,github,vite,figma,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,react,tailwind,js,python,mysql,vite,git,github,figma,linux&theme=dark&perline=6" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Luqman925&show_icons=true&theme=tokyonight&border_radius=15" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Luqman925&layout=compact&theme=tokyonight&border_radius=15" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Luqman925&show_icons=true&theme=tokyonight&border_radius=15" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Luqman925&layout=compact&theme=tokyonight&border_radius=15" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Luqman925&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
@@ -57,6 +65,12 @@
   <a href="mailto:muhammadluqman@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Luqman925&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 ---
