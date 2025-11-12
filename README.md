@@ -1,6 +1,6 @@
 <!-- 💫 Futuristic Profile by Muhammad Luqman -->
 <p align="center">
-  <img src="banner.png" alt="Muhammad Luqman Banner" width="100%">
+  <img src="https://github.com/Muhammad-Luqman925/Muhammad-Luqman925/blob/main/Banner.png" alt="Muhammad Luqman Banner" width="100%">
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#58C4DC;">Muhammad Luqman</span></h1>
