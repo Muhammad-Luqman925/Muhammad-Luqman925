@@ -1,24 +1,28 @@
-<!-- 🌌 Ultimate Modern GitHub Profile README by Muhammad Luqman -->
-<h1 align="center">✨ Hi, I'm <span style="color:#58C4DC;">Muhammad Luqman</span> 👋</h1>
+<!-- 💫 Futuristic Profile by Muhammad Luqman -->
+<p align="center">
+  <img src="banner.png" alt="Muhammad Luqman Banner" width="100%">
+</p>
+
+<h1 align="center">👋 Hi, I'm <span style="color:#58C4DC;">Muhammad Luqman</span></h1>
 
 <p align="center">
-  <b>Information Systems Student</b> at <b>Universitas Mulawarman</b> 🎓<br>
+  🎓 Information Systems Student at <b>Universitas Mulawarman</b><br>
   🌍 Samarinda, Indonesia · 💡 Passionate about <b>Web Development, AI, and EdTech</b>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=58C4DC&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;AI+%26+Adaptive+Learning+Researcher;Laravel+%2B+React+Enthusiast;Always+Learning+New+Things+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=58C4DC&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;AI+%26+EdTech+Enthusiast;Laravel+%2B+React+Lover;Always+Learning+🚀">
 </p>
 
 ---
 
 ### 💫 About Me
-- 🧠 Love connecting **learning theory with code**
-- 🧩 Currently building **LearnCheck** — an adaptive learning system to diagnose misconceptions  
-- 🌱 Exploring **AI integration**, **Filament 3.x**, and **React + Vite workflows**  
-- 💬 Ask me about **Laravel**, **Adaptive Systems**, or **AI in Education**  
+- 🧠 I love connecting **learning theory with modern web technology**
+- 🧩 Currently building **LearnCheck** — an adaptive learning platform using a rule-based AI engine  
+- 🌱 Exploring **Laravel 12**, **Filament 3.x**, and **React + Vite workflows**  
+- 💬 Ask me about **Adaptive Quiz Systems**, **AI Integration**, or **Laravel + React Stack**  
 - ⚡ Fun fact: I track my **weekly BTC & ETH DCA** while planning my next **custom PC build** 😄  
 
 ---
@@ -51,6 +55,13 @@
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Luqman925&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
+
+---
+
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-luqman" target="_blank">
@@ -70,9 +81,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Luqman925&theme=tokyonight&no-frame=true&margin-w=15" />
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-Luqman925&label=Profile+Views&color=58C4DC&style=for-the-badge" alt="profile views" />
 </p>
-
----
 
 <p align="center">⭐️ <i>"Keep building. Keep learning. Keep inspiring."</i></p>
