@@ -1,4 +1,4 @@
-<!-- 💫 Futuristic Profile by Muhammad Luqman -->
+<img width="1471" height="992" alt="image" src="https://github.com/user-attachments/assets/65ad0142-3059-46c6-b07b-3dd57a2dbb98" /><!-- 💫 Futuristic Profile by Muhammad Luqman -->
 <p align="center">
   <img src="https://github.com/Muhammad-Luqman925/Muhammad-Luqman925/blob/main/Banner.png" alt="Muhammad Luqman Banner" width="100%">
 </p>
@@ -85,21 +85,71 @@
 
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
+### 🌐 Connect With Me
+<p align="center">
+  I'm always open to discussions, collaborations, or just a friendly hello.<br>
+  <b>Feel free to reach out anytime!</b>
+</p>
+
+<table align="center">
+  <tr>
+    
+  <td align="center" width="200">
+      <a href="Muh.Luqman005@gmail.com" target="_blank">
+        <img src="https://img.icons8.com/color/96/000000/gmail--v1.png" width="60"
+          style="transition: all 0.4s ease; border-radius:50%;"
+          onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 10px #D14836)';"
+          onmouseout="this.style.transform='scale(1)'; this.style.filter='none';" />
+      </a>
+      <h4>Email</h4>
+      <a href="Muh.Luqman005@gmail.com">
+        <img src="https://img.shields.io/badge/Send%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+      </a>
+    </td>
+
+  <td align="center" width="200">
+      <a href="https://www.linkedin.com/in/muhammad-luqman-84133928a/" target="_blank">
+        <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="60"
+          style="transition: all 0.4s ease; border-radius:50%;"
+          onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 10px #0A66C2)';"
+          onmouseout="this.style.transform='scale(1)'; this.style.filter='none';" />
+      </a>
+      <h4>LinkedIn</h4>
+      <a href="https://www.linkedin.com/in/muhammad-luqman-84133928a/" target="_blank">
+        <img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      </a>
+    </td>
+
+  <td align="center" width="200">
+      <a href="https://www.instagram.com/muhammad__luqmann/" target="_blank">
+        <img src="https://img.icons8.com/color/96/000000/instagram-new--v1.png" width="60"
+          style="transition: all 0.4s ease; border-radius:50%;"
+          onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 10px #E4405F)';"
+          onmouseout="this.style.transform='scale(1)'; this.style.filter='none';" />
+      </a>
+      <h4>Instagram</h4>
+      <a href="https://www.instagram.com/muhammad__luqmann/" target="_blank">
+        <img src="https://img.shields.io/badge/Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+      </a>
+    </td>
+
+  <td align="center" width="200">
+      <a href="https://discordapp.com/users/741678549081129082" target="_blank">
+        <img src="https://img.icons8.com/color/96/000000/discord--v2.png" width="60"
+          style="transition: all 0.4s ease; border-radius:50%;"
+          onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 10px #5865F2)';"
+          onmouseout="this.style.transform='scale(1)'; this.style.filter='none';" />
+      </a>
+      <h4>Discord</h4>
+      <a href="https://discordapp.com/users/741678549081129082" target="_blank">
+        <img src="https://img.shields.io/badge/Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-luqman" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
-  </a>
-  <a href="https://www.instagram.com/luqman.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584"/>
-  </a>
-  <a href="https://discordapp.com/users/luqman#2025" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=404EED"/>
-  </a>
-  <a href="mailto:muhammadluqman@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C71610"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=58C4DC&center=true&vCenter=true&width=500&lines=Let's+Connect!;Open+for+collaboration+and+creative+ideas+🚀"/>
 </p>
 
 
